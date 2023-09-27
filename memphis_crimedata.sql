@@ -2,7 +2,7 @@
 Created by: Mikael Aringberg
 Date: 25/09-2023
 Purpose: Memphis is one of the most dangerous and high crime rated cities in the US with Tenessee being one of the most dangerous states.
-		 This dataset has been collected from the Memphis Police Departement with crime data reaching all the way back to 1983.
+		 This dataset has been collected from the Memphis Police Department with crime data reaching all the way back to 1983.
 		 In this script I will clean the data brought from the MPD, analyze it and lastly visualize it in Tableau.
 */
 
